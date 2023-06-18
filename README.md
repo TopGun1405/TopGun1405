@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=topgun)](https://solved.ac/topgun/)
