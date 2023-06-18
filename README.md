@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ---
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TopGun1405&show_icons=true&theme=radical)
 
 ---
